@@ -319,6 +319,4 @@ $
 
 
 ## Authors ##
-
-👤 **Yonas Leykun**
-
+Yakubu Rufai <yrufai23@gmail.com>
